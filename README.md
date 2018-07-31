@@ -1,2 +1,2 @@
 # JavaScriptConverterTemp
-Basic JavaScript temperature converter for Celsius Fahrenheit Kelvin and Newton.
+Basic JavaScript project temperature converter for Celsius Fahrenheit Kelvin and Newton.
